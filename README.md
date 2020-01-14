@@ -26,5 +26,7 @@ The following topics are covered in my repository :
 
 :white_check_mark: CPP011_For.cpp - For Loop
 
+:white_check_mark: CPP011_While_DoWhile.cpp - While Loop & Do While Loop
+
 
 ***Contributed with :blue_heart: by Tridib Samanta***
