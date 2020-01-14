@@ -1,24 +1,28 @@
 # CPP_Beginner_to_Expert
-Designed for people who don't have any knowledge about the programming and want to program in C++
 
-What you'll learn
+***Basic to Expert level concepts implemented using the C++ language.***
 
-How to use C++ language in action
-What is compiler / IDE / Variables / types of variables etc.
-How to work with files - fstream library (i/o operation on files)
-operators - arithmetic, assigment, logical, bitwise
-conditions like if / else / switch
-arrays / multi-dimensional arrays
-loops - for / while / do-while
-functions, overloading functions, passing variables to functions etc.
-structures
-referencers
-pointers
-dynamic allocation of memory
-creating project in IDE
-classes
-object oriented programming
-class and function templates
-namespaces
-exceptions
-input / output streams and validation of data
+The following topics are covered in my repository : 
+
+:white_check_mark: CPP001_First_Program.cpp - First program, display "Hello World !"
+
+:white_check_mark: CPP002_Variables.cpp - Introduction to variables
+
+:white_check_mark: CPP003_Variables_Types.cpp - Getting familier with the datatypes 
+
+:white_check_mark: CPP004_Input.cpp - Console Input / Output
+
+:white_check_mark: CPP005_Arithmetic_Assignment_Increment_Decrement_Operators.cpp - Arithmetic, Assignment, Increment, Decrement Operators
+
+:white_check_mark: CPP006_Relational_Operators.cpp - Relational Operators 
+
+:white_check_mark: CPP007_Logical_Operators.cpp - Logical Operators 
+
+:white_check_mark: CPP008_Calculator_Exercise.cpp - Simple Calculator Program
+
+:white_check_mark: CPP009_Arrays.cpp - Arrays
+
+:white_check_mark: CPP010_Multidimensional_Arrays.cpp - Multidimensional Arrays
+
+
+***Contributed with :blue_heart: by Tridib Samanta***
