@@ -28,5 +28,8 @@ The following topics are covered in my repository :
 
 :white_check_mark: CPP012_While_DoWhile.cpp - While Loop & Do While Loop
 
+:white_check_mark: CPP013_Counting_Digits_Exercise.cpp - Counting the number of digits in a number
 
-***Contributed with :blue_heart: by Tridib Samanta***
+
+
+***Contributed with :blue_heart: by Tridib***
