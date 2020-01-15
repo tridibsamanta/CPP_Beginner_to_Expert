@@ -40,5 +40,7 @@ The following topics are covered in my repository :
 
 :white_check_mark: CPP018_Overloading_Functions.cpp - Function Overloading
 
+:white_check_mark: CPP019_CalculateArea_Exercise.cpp - Calculate the area of Circle, Square, Rectangle, Triangle using functions
+
 
 ***Contributed with :blue_heart: by Tridib***
