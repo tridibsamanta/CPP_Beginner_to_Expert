@@ -36,5 +36,7 @@ The following topics are covered in my repository :
 
 :white_check_mark: CPP016_Variables_Scope.cpp - Scope of Variables
 
+:white_check_mark: CPP017_Functions.cpp - Functions
+
 
 ***Contributed with :blue_heart: by Tridib***
