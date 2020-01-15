@@ -34,5 +34,7 @@ The following topics are covered in my repository :
 
 :white_check_mark: CPP015_Break_Continue.cpp - Break & Continue
 
+:white_check_mark: CPP016_Variables_Scope.cpp - Scope of Variables
+
 
 ***Contributed with :blue_heart: by Tridib***
