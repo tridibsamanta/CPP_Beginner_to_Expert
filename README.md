@@ -42,5 +42,7 @@ The following topics are covered in my repository :
 
 :white_check_mark: CPP019_CalculateArea_Exercise.cpp - Calculate the area of Circle, Square, Rectangle, Triangle using functions
 
+:white_check_mark: CPP020_Enumeration.cpp - Enumerated Types
+
 
 ***Contributed with :blue_heart: by Tridib***
