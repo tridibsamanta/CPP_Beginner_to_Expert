@@ -48,6 +48,8 @@ The following topics are covered in my repository :
 
 :white_check_mark: CPP022_ReferenceVariables_Functions.cpp - Reference Variables and Functions 
 
+:white_check_mark: CPP023_Pointers.cpp - Pointers
+
 
 
 ***Contributed with :blue_heart: by Tridib***
