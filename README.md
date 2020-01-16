@@ -52,6 +52,8 @@ The following topics are covered in my repository :
 
 :white_check_mark: CPP024_Pointers_in_Arrays.cpp - Pointers & Arrays
 
+:white_check_mark: CPP025_Dynamic_Memory_Allocation.cpp - Dynamic Memory Allocation
+
 
 
 ***Contributed with :blue_heart: by Tridib***
