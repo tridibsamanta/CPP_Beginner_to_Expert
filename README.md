@@ -56,6 +56,8 @@ The following topics are covered in my repository :
 
 :white_check_mark: CPP026_String_Char_Pointers.cpp - Dealing with string, char & pointers
 
+:white_check_mark: CPP027_Functions_and_Pointers.cpp - Passing pointer array to functions
+
 
 
 ***Contributed with :blue_heart: by Tridib***
