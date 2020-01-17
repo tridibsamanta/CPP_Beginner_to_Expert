@@ -54,6 +54,8 @@ The following topics are covered in my repository :
 
 :white_check_mark: CPP025_Dynamic_Memory_Allocation.cpp - Dynamic Memory Allocation
 
+:white_check_mark: CPP026_String_Char_Pointers.cpp - Dealing with string, char & pointers
+
 
 
 ***Contributed with :blue_heart: by Tridib***
