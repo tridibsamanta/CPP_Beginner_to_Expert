@@ -58,6 +58,8 @@ The following topics are covered in my repository :
 
 :white_check_mark: CPP027_Functions_and_Pointers.cpp - Passing pointer array to functions
 
+:white_check_mark: CPP028_Lottery_Exercise.cpp - Generate random winners in a lottery
+
 
 
 ***Contributed with :blue_heart: by Tridib***
