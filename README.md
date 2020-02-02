@@ -66,6 +66,7 @@ The following topics are covered in my repository :
 
 :white_check_mark: CPP031_Classes.cpp - Classes, Constructors, Destructors 
 
+:white_check_mark: CPP032_StaticVariables_StaticFunctions.cpp - Static variables and functions
 
 
 ***Contributed with :blue_heart: by Tridib***
