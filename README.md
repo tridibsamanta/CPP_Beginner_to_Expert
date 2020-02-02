@@ -64,6 +64,8 @@ The following topics are covered in my repository :
 
 :white_check_mark: CPP030_Structure.cpp - Structures
 
+:white_check_mark: CPP031_Classes.cpp - Classes, Constructors, Destructors 
+
 
 
 ***Contributed with :blue_heart: by Tridib***
