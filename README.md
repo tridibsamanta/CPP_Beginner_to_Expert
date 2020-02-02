@@ -70,5 +70,7 @@ The following topics are covered in my repository :
 
 :white_check_mark: CPP033_Constant_Variables_and_Methods.cpp - Constant variables and methods
 
+:white_check_mark: CPP034_Friend_Function.cpp - Friend function
+
 
 ***Contributed with :blue_heart: by Tridib***
