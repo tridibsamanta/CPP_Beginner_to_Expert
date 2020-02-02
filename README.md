@@ -68,5 +68,7 @@ The following topics are covered in my repository :
 
 :white_check_mark: CPP032_StaticVariables_StaticFunctions.cpp - Static variables and functions
 
+:white_check_mark: CPP033_Constant_Variables_and_Methods.cpp - Constant variables and methods
+
 
 ***Contributed with :blue_heart: by Tridib***
