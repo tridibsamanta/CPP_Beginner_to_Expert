@@ -80,5 +80,7 @@ The following topics are covered in my repository :
 
 :white_check_mark: CPP038_Virtual_Function.cpp - Virtual Function
 
+:white_check_mark: CPP039_AbstractClass_PureVirtualFunction.cpp - Abstract Class & Pure Virtual Function
+
 
 ***Contributed with :blue_heart: by Tridib***
