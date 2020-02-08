@@ -74,5 +74,7 @@ The following topics are covered in my repository :
 
 :white_check_mark: CPP035_Friend_Classes.cpp - Friend Classes
 
+:white_check_mark: CPP036_Copy_Constructor.cpp - Copy Constructor
+
 
 ***Contributed with :blue_heart: by Tridib***
