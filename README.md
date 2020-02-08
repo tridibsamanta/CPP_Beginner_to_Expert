@@ -72,5 +72,7 @@ The following topics are covered in my repository :
 
 :white_check_mark: CPP034_Friend_Function.cpp - Friend function
 
+:white_check_mark: CPP035_Friend_Classes.cpp - Friend Classes
+
 
 ***Contributed with :blue_heart: by Tridib***
