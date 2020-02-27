@@ -1,6 +1,6 @@
 # CPP_Beginner_to_Expert
 
-***Basic to Expert level concepts implemented using the C++ language.***
+***Basic to Expert level concepts implemented using the C++ language***
 
 The following topics are covered in my repository : 
 
