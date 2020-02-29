@@ -1,4 +1,4 @@
-# CPP_Beginner_to_Expert
+# C++ - Beginner to Expert
 
 ***Basic to Expert level concepts implemented using the C++ language***
 
