@@ -82,5 +82,7 @@ The following topics are covered in my repository :
 
 :white_check_mark: CPP039_AbstractClass_PureVirtualFunction.cpp - Abstract Class & Pure Virtual Function
 
+:white_check_mark: CPP040_Exception_Handling.cpp - Handling Exceptions
+
 
 ***Contributed with :blue_heart: by Tridib***
