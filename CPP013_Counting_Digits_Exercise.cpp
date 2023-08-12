@@ -6,7 +6,7 @@
 #include<iostream>
 using namespace std;
 
-main() {
+int main() {
     int num,digits_count=1;
     cin>>num;
     int temp=num;
@@ -16,4 +16,6 @@ main() {
         digits_count++;
 
     cout<<"The number "<<num<<" has "<<digits_count<<" digit(s)"<<endl;
+
+    return 0;
 }

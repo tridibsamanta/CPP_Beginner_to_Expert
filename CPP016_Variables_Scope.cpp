@@ -10,7 +10,7 @@ using namespace std;
 
 int globalVariable;
 
-main() {
+int main() {
 
     //Variables declared within a block are called Local Variables.
     int localVariable;
@@ -27,4 +27,5 @@ main() {
     cout<<result; // Error as result is local to the if block
     */
 
+   return 0;
 }
