@@ -6,7 +6,7 @@
  #include<iostream>
  using namespace std;
 
- main() {
+ int main() {
     /*
         for(initialization;condition;inc/dec)
             instructions_to_repeat;
@@ -28,4 +28,6 @@
     for(;;)
         cout<<"Stop me if you can !"<<endl;
     */
+
+   return 0;
  }

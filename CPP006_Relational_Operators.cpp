@@ -7,7 +7,7 @@
 
 using namespace std;
 
-main()
+int main()
 {
     cout<<"Relational Operators !"<<endl;
 
@@ -21,4 +21,6 @@ main()
     cout << (a<=b)<<endl;
     cout << (a>=b)<<endl;
     cout << !(a==b)<<endl; // (a!=b)
+
+    return 0;
 }

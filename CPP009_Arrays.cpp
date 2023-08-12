@@ -6,7 +6,7 @@
 #include <iostream>
 using namespace std;
 
-main()
+int main()
 {
     int array[4]; //Type_Name[Size_of_Elements]
 
@@ -24,4 +24,6 @@ main()
 
     if(&array[0] == array)
         cout<<"TRUE";
+
+    return 0;
 }

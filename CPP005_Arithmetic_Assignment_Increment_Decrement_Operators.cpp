@@ -2,7 +2,7 @@
 
 using namespace std;
 
-main()
+int main()
 {
     int a=10,b=5;
 
@@ -18,4 +18,5 @@ main()
     cout << a++ <<endl; //Post-Increment
     cout << a-- <<endl; //Post-decrement
 
+    return 0;
 }

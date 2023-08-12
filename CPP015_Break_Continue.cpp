@@ -6,7 +6,7 @@
 #include<iostream>
 using namespace std;
 
-main() {
+int main() {
     for(int i=1;i<=10;i++) {
         if(i==3)
             continue; //Everything after continue WONT BE executed.
@@ -22,4 +22,6 @@ main() {
         }
         cout<<endl;
     }
+
+    return 0;
 }
