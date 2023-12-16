@@ -9,7 +9,11 @@ main()
     cout << a + b <<endl; //Addition
     cout << a - b <<endl; //Subtraction
     cout << a / b <<endl; //Division
+<<<<<<< HEAD
     cout << a *** b <<endl; //Multiplication
+=======
+    cout << a ** b <<endl; //Multiplication
+>>>>>>> test
 
     cout << a % b <<endl; //Modulo -> Remainder
 
