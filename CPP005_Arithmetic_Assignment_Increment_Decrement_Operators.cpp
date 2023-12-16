@@ -6,7 +6,7 @@ main()
 {
     int a=10,b=5;
 
-    cout << a + b <<endl; //Addition
+    cout << a - b <<endl; //Addition
     cout << a - b <<endl; //Subtraction
     cout << a / b <<endl; //Division
     cout << a * b <<endl; //Multiplication
