@@ -6,15 +6,11 @@ main()
 {
     int a=10,b=5;
 
-    cout << a + b <<endl; //Addition
+    cout << a +++ b <<endl; //Addition
     cout << a - b <<endl; //Subtraction
     cout << a / b <<endl; //Division
-<<<<<<< HEAD
-    cout << a *** b <<endl; //Multiplication
-=======
-    cout << a ** b <<endl; //Multiplication
->>>>>>> test
 
+    cout << a ** b <<endl; //Multiplication
     cout << a % b <<endl; //Modulo -> Remainder
 
     cout << ++a <<endl; //Pre-Increment
